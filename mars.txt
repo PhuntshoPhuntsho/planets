@@ -2,4 +2,4 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolman
 But the Mummy will appreciate the lack of humidity
 Maybe I should start with a base on Venus
-This is from VS code
+This is from VS code tested for working
